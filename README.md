@@ -1,6 +1,6 @@
 # Joose Tabs
 
-A lightweight, minimal and unstyled tab component. (Incomplete)
+A lightweight, minimal and unstyled tab component.
 
 This component belongs to the Joose component library, but can be used completely independently.
 

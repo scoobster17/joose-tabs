@@ -31,13 +31,13 @@
         <p>No styling has been applied other than simple show/hide. You can utilise the existing HTML as I have, or you can add your own classes / selectors of your choice. This means you can have horizontally aligned tabs or vertically aligned tabs.</p>
         <p>
             Tabs
-            <code>var componentTabs = new Tabs('#componentContainer', false);</code>
+            <code>var componentTabs = new joose.classes.Tabs('componentContainer', 1);</code>
             or
-            <code>&lt;section id="tabsContainer" data-component="tabs"&gt;</code>
+            <code>&lt;section id="tabsContainer" data-component="tabs" data-default-tab="1"&gt;</code>
         </p>
         <p>The initialisation function will pick out any instances of tabs by searching for the data attribute automatically.</p>
         <h2>Example HTML</h2>
-        <section id="tabs" data-component="tabs">
+        <section id="tabs" data-component="tabs" data-default-tab="1">
             <ul>
                 <li><a href="#lorem1" id="lorem1Trigger" aria-controls="lorem1">Lorem 1</a></li>
                 <li><a href="#lorem2" id="lorem2Trigger" aria-controls="lorem2">Lorem 2</a></li>

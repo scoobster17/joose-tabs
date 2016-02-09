@@ -1,0 +1,6 @@
+[data-component="tabs"] [aria-labelledby] {
+  display: none; }
+[data-component="tabs"] .shown {
+  display: block; }
+
+/*# sourceMappingURL=joose-tabs.css.map */

@@ -1,0 +1,8 @@
+[data-component="tabs"] {
+    [aria-labelledby] {
+        display:none;
+    }
+    .shown {
+        display:block;
+    }
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,yCAAkB;EACd,OAAO,EAAC,IAAI;AAEhB,8BAAO;EACH,OAAO,EAAC,KAAK",
+"sources": ["joose-tabs.scss"],
+"names": [],
+"file": "joose-tabs.css"
+}

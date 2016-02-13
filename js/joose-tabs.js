@@ -6,6 +6,7 @@ Depends on Joose.utils
 */
 
 ;var joose = window.joose || {};
+joose.classes = joose.classes || {};
 joose.tabs = (function(js) {
     
     "use strict";

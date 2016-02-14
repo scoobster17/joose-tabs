@@ -18,7 +18,7 @@ To install this component independently using [npm](https://www.npmjs.com/packag
 
 ## Usage
 
-The tabs can be initialised in two different ways
+The tabs can be initialised in two different ways  
 `var componentTabs = new joose.classes.Tabs('componentContainer', 1);`  
 or  
 `<section id="tabsContainer" data-component="tabs" data-default-tab="1">`

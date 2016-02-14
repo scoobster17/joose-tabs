@@ -1,0 +1,26 @@
+{
+  "name": "joose-tabs",
+  "description": "A lightweight, unstyled tabs component. Part of the joose component library",
+  "main": "js/joose-tabs.js",
+  "authors": [
+    "Phil Gibbins <scoobster17@hotmail.co.uk> (http://www.philgibbins.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tabs",
+    "joose",
+    "joose-tabs"
+  ],
+  "homepage": "https://github.com/scoobster17/joose-tabs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "joose-utils": "*"
+  }
+}

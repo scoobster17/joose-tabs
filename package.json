@@ -21,6 +21,9 @@
     "url": "https://github.com/scoobster17/joose-tabs/issues"
   },
   "homepage": "https://github.com/scoobster17/joose-tabs",
+  "dependencies": {
+    "joose-utils": "^1.0.0"
+  },
   "devDependencies": {
     "joose-utils": "^1.0.0"
   }

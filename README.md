@@ -8,11 +8,11 @@ The package includes a basic CSS file (along with source Sass files) to handle t
 
 ## Installation
 
-To install this component independently using [bower](http://bower.io/search/?q=joose-accordion) use the following command:
+To install this component independently using [bower](http://bower.io/search/?q=joose-tabs) use the following command:
 
 `bower install joose-tabs`
 
-To install this component independently using [npm](https://www.npmjs.com/package/joose-accordion) use the following command:
+To install this component independently using [npm](https://www.npmjs.com/package/joose-tabs) use the following command:
 
 `npm install joose-tabs`
 

@@ -1,6 +1,6 @@
 {
   "name": "joose-tabs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight, unstyled tabs component. Part of the joose component library",
   "main": "js/joose-tabs.js",
   "scripts": {
